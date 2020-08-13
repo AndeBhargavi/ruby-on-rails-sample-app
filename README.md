@@ -2,6 +2,7 @@
 #code 123
 #hello
 #hi
+#kk
 Original version is at 	https://bitbucket.org/railstutorial/sample_app_4th_ed.git
 
 It contains
